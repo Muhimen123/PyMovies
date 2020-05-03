@@ -4,7 +4,7 @@ import random
 
 
 def gather_data():
-    apikey = '###'
+    apikey = '###'  #Add your API key here
     genre_full_list = [28, 12, 16, 35, 80, 99, 10751, 14, 36, 27, 9648, 878, 10752]
     url = 'https://api.themoviedb.org/3/discover/movie?'
 
